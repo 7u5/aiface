@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-import conf.config as config
+import config
 
 import sys
 import os
